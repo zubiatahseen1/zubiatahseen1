@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zubiatahseen1
-- 👀 I’m interested in both front and back end web development.
+- 👀 I’m interested front and back end web development.
 - 🌱 I’m currently learning Front end development using javascript.
 - 💞️ I’m looking to collaborate on any projects related to the mentioned interests.
 - 📫 You can reach me at tahseenzubia4@gmail.com
