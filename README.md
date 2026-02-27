@@ -10,9 +10,9 @@ Student at Trios College, Toronto
 I’m currently studying Mobile and Web Development at Trios College in Toronto,  
 building strong foundations in modern front-end development and digital design.
 
-I’m deeply drawn to clean, cohesive systems — where structure, clarity, and intention guide every decision.
+I love designing and developing clean and cohesive systems.
 
-I value simplicity, but never at the cost of impact.
+I value simplicity, minimalism and products that are impactful.
 
 ---
 
@@ -42,16 +42,11 @@ I value simplicity, but never at the cost of impact.
 
 - Responsive web design  
 - UI refinement and layout structure  
-- Design-to-development implementation  
+- Design to development implementation  
 - Improving usability through simplicity  
 
 ---
 
-## Design Philosophy
-
-Clean, but effective.  
-Minimal, but intentional.  
-Structured, but human.
 
 I believe great design is not about adding more —  
 it’s about refining until only what matters remains.
