@@ -48,5 +48,5 @@ I value simplicity, minimalism and products that are impactful.
 ---
 
 
-I believe great design is not about adding more —  
+I believe great design is not about adding more, 
 it’s about refining until only what matters remains.
