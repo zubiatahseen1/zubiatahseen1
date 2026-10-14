@@ -24,7 +24,11 @@ I value simplicity, minimalism and products that are impactful.
 - Figma  
 - Adobe Photoshop  
 - Adobe Illustrator  
-- Git & GitHub  
+- Git & GitHub
+- PHP and MYSQL
+- SwiftUI
+- Kotlin
+- Java
 
 ---
 
